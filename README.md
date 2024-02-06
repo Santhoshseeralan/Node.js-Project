@@ -14,9 +14,31 @@ https://github.com/Santhoshseeralan/Node.js-Project/assets/143958411/44be1960-4e
 
 IMAGE OUTPUT:
 
-This is My Node.JS server with 3 ec2 ubuntu server. Allocated Elastic Ip Address
+This is My Node.JS server with 3 ec2 ubuntu server. Allocated Elastic Ip Address:
 
 ![image](https://github.com/Santhoshseeralan/Node.js-Project/assets/143958411/1edc3a2a-9ef0-474e-ba85-4bcc444614ee)
 
+This is My security Group Allocated the Ports with Inbound and Outbound Rules:
 
+![image](https://github.com/Santhoshseeralan/Node.js-Project/assets/143958411/d0c54fc9-b885-413c-ab60-f6e73c733f87)
+
+This is Load Balancer for Using My Node.js webserver:
+
+![image](https://github.com/Santhoshseeralan/Node.js-Project/assets/143958411/ad70cbe0-6348-4b1f-88a7-e71ade1de492)
+
+This is Load Balancer console status connected into 3 ec2 instance with 3 Availability Zones:
+
+![image](https://github.com/Santhoshseeralan/Node.js-Project/assets/143958411/6f4762a5-4fe3-45d6-9134-9256da3f0568)
+
+This is Load Balancer status and Utilization:
+
+![image](https://github.com/Santhoshseeralan/Node.js-Project/assets/143958411/30dd1f62-9a80-4d7d-ae4b-e57f612fb36b)
+
+This is Route 53 to Create records:
+
+![image](https://github.com/Santhoshseeralan/Node.js-Project/assets/143958411/dbb629d2-c1f6-4edb-80b9-18876f2feffa)
+
+NODE.JS WEBSERVER USING LOAD BALANCER OUTPUT:
+
+![image](https://github.com/Santhoshseeralan/Node.js-Project/assets/143958411/b5f7279b-0e9b-442f-adf7-3a7d5bd80676)
 
