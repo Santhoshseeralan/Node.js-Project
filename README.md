@@ -12,4 +12,11 @@ VIDEO OUTPUT:
 
 https://github.com/Santhoshseeralan/Node.js-Project/assets/143958411/44be1960-4eea-4887-8443-ebc4f2a8e6db
 
+IMAGE OUTPUT:
+
+This is My Node.JS server with 3 ec2 ubuntu server. Allocated Elastic Ip Address
+
+![image](https://github.com/Santhoshseeralan/Node.js-Project/assets/143958411/1edc3a2a-9ef0-474e-ba85-4bcc444614ee)
+
+
 
